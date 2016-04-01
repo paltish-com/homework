@@ -246,10 +246,10 @@ th {
     border-top-color: #000 !important;
   }
   .label {
-    border: 1px solid #000;
+    border: 1px solid #000;color: red
   }
   .table {
-    border-collapse: collapse !important;
+    border-collapse: collapse !important;color: red
   }
   .table td,
   .table th {
